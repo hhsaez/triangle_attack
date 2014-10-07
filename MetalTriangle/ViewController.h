@@ -6,9 +6,9 @@
 //  Copyright (c) 2014 Hernan Saez. All rights reserved.
 //
 
-#import "MetalViewController.h"
+#import "CrimildMetalViewController.h"
 
-@interface ViewController : MetalViewController
+@interface ViewController : CrimildMetalViewController
 
 
 @end
